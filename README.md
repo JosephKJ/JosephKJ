@@ -2,6 +2,7 @@
 [![](https://img.shields.io/badge/Homepage-blue??&style=flat-square&logo=houzz&logoColor=white)](https://josephkj.in/)
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sOG3L94AAAAJ)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/josephkj_in)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephkj)
 [![](https://img.shields.io/github/stars/JosephKJ?style=flat-square&logo=github&label=Github%20Stars&labelColor=gray&color=gray)](https://github.com/JosephKJ)
 [![](https://stackoverflow-badge.vercel.app/?userID=2006462)](https://stackoverflow.com/users/2006462/joseph)
 
